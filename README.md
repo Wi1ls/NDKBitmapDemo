@@ -1,0 +1,1 @@
+第一个涉及到 NDK 的程序，采用 Android Studio3.0采取的 CMake(IDE自动配置),调用 NDK 层的方法将一张图片变为灰态
